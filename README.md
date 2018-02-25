@@ -27,6 +27,6 @@ The light bulb is switched on/off by analysing environmental conditions and also
 1. Microcontroller 8051
 2. LDR
 3. BH1750 LUX Sensor
-4. MCP3204 ADC 
-5. DS1307 RTC
+4. MCP3204-ADC 
+5. DS1307-RTC
 6. RaspberryPi Board

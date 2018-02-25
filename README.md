@@ -23,4 +23,10 @@ The light bulb is switched on/off by analysing environmental conditions and also
 
 6. Thus we can observe each and every action taken by 8051 at anyplace over the Internet.
 
-
+# Devices Used
+1. Microcontroller 8051
+2. LDR
+3. BH1750 LUX Sensor
+4. MCP3204 ADC 
+5. DS1307 RTC
+6. RaspberryPi Board
